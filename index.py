@@ -1,0 +1,2 @@
+param = "ersin"
+print(param)
